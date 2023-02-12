@@ -1,0 +1,190 @@
+﻿Sales Report: 
+January: 23458.01
+February: 40112.00
+March: 56011.85
+April: 37820.88
+May: 37904.67
+June: 60200.22
+July: 72400.31
+August: 56210.89
+September: 67230.84
+October: 68233.12
+November: 80950.34
+December: 95225.22
+
+
+Max Month: 
+December: 95225.22
+
+
+Min Month: 
+January: 23458.01
+
+
+Average: 57979.86
+
+
+Six month moving average: 
+January-June: 42584.61
+february-july: 50741.66
+March-August: 53424.80
+April-September: 55294.64
+May-October: 60363.34
+June-November: 67537.62
+July-December: 73375.12
+
+
+Highest to Lowest Months
+December: 95225.22
+November: 80950.34
+July: 72400.31
+October: 68233.12
+September: 67230.84
+June: 60200.22
+August: 56210.89
+March: 56011.85
+February: 40112.00
+May: 37904.67
+April: 37820.88
+January: 23458.01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enter 1 quit, Enter Score: 25
+
+
+ 0 TD with two extra points + 0 TD with extra point + 0 TD + 1 field goal + 11 safety
+
+
+ 0 TD with two extra points + 0 TD with extra point + 0 TD + 3 field goal + 8 safety
+
+
+ 0 TD with two extra points + 0 TD with extra point + 0 TD + 5 field goal + 5 safety
+
+
+ 0 TD with two extra points + 0 TD with extra point + 0 TD + 7 field goal + 2 safety
+
+
+ 0 TD with two extra points + 0 TD with extra point + 1 TD + 1 field goal + 8 safety
+
+
+ 0 TD with two extra points + 0 TD with extra point + 1 TD + 3 field goal + 5 safety
+
+
+ 0 TD with two extra points + 0 TD with extra point + 1 TD + 5 field goal + 2 safety
+
+
+ 0 TD with two extra points + 0 TD with extra point + 2 TD + 1 field goal + 5 safety
+
+
+ 0 TD with two extra points + 0 TD with extra point + 2 TD + 3 field goal + 2 safety
+
+
+ 0 TD with two extra points + 0 TD with extra point + 3 TD + 1 field goal + 2 safety
+
+
+ 0 TD with two extra points + 1 TD with extra point + 0 TD + 0 field goal + 9 safety
+
+
+ 0 TD with two extra points + 1 TD with extra point + 0 TD + 2 field goal + 6 safety
+
+
+ 0 TD with two extra points + 1 TD with extra point + 0 TD + 4 field goal + 3 safety
+
+
+ 0 TD with two extra points + 1 TD with extra point + 0 TD + 6 field goal + 0 safety
+
+
+ 0 TD with two extra points + 1 TD with extra point + 1 TD + 0 field goal + 6 safety
+
+
+ 0 TD with two extra points + 1 TD with extra point + 1 TD + 2 field goal + 3 safety
+
+
+ 0 TD with two extra points + 1 TD with extra point + 1 TD + 4 field goal + 0 safety
+
+
+ 0 TD with two extra points + 1 TD with extra point + 2 TD + 0 field goal + 3 safety
+
+
+ 0 TD with two extra points + 1 TD with extra point + 2 TD + 2 field goal + 0 safety
+
+
+ 0 TD with two extra points + 1 TD with extra point + 3 TD + 0 field goal + 0 safety
+
+
+ 0 TD with two extra points + 2 TD with extra point + 0 TD + 1 field goal + 4 safety
+
+
+ 0 TD with two extra points + 2 TD with extra point + 0 TD + 3 field goal + 1 safety
+
+
+ 0 TD with two extra points + 2 TD with extra point + 1 TD + 1 field goal + 1 safety
+
+
+ 0 TD with two extra points + 3 TD with extra point + 0 TD + 0 field goal + 2 safety
+
+
+ 1 TD with two extra points + 0 TD with extra point + 0 TD + 1 field goal + 7 safety
+
+
+ 1 TD with two extra points + 0 TD with extra point + 0 TD + 3 field goal + 4 safety
+
+
+ 1 TD with two extra points + 0 TD with extra point + 0 TD + 5 field goal + 1 safety
+
+
+ 1 TD with two extra points + 0 TD with extra point + 1 TD + 1 field goal + 4 safety
+
+
+ 1 TD with two extra points + 0 TD with extra point + 1 TD + 3 field goal + 1 safety
+
+
+ 1 TD with two extra points + 0 TD with extra point + 2 TD + 1 field goal + 1 safety
+
+
+ 1 TD with two extra points + 1 TD with extra point + 0 TD + 0 field goal + 5 safety
+
+
+ 1 TD with two extra points + 1 TD with extra point + 0 TD + 2 field goal + 2 safety
+
+
+ 1 TD with two extra points + 1 TD with extra point + 1 TD + 0 field goal + 2 safety
+
+
+ 1 TD with two extra points + 2 TD with extra point + 0 TD + 1 field goal + 0 safety
+
+
+ 2 TD with two extra points + 0 TD with extra point + 0 TD + 1 field goal + 3 safety
+
+
+ 2 TD with two extra points + 0 TD with extra point + 0 TD + 3 field goal + 0 safety
+
+
+ 2 TD with two extra points + 0 TD with extra point + 1 TD + 1 field goal + 0 safety
+
+
+ 2 TD with two extra points + 1 TD with extra point + 0 TD + 0 field goal + 1 safety
